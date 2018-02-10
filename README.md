@@ -1,54 +1,8 @@
-# CSS Selectors
-A
-::after / ::before
-:active
-:any-link
-Adjacent sibling
-[attribute]
-B
-:blank
-C
-:checked
-Child
-Class
-D
-:default
-:dir()
-:disabled
-Descendant
-E
-:empty
-:enabled
-F
-::first-letter
-::first-line
-:first-child
-:first-of-type
-:focus
-:focus-within
-G
-General sibling
-H
-:hover
-I
-:in-range
-:indeterminate
-:invalid
-:is()
-ID
-J
-K
-L
-:lang()
-:last-child
-:last-of-type
-:link
-M
-::marker
-:matches()
-N
-:not(s)
-:nth-child
-:nth-last-child
-:nth-last-of-type
-:nth-of-type
+# MISIÓN
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+#VISIÓN
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+#OBJETIVO
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
